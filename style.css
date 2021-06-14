@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.left{
+    background-color: rgb(147, 147, 226);
+    color: black ;
+    width: 420PX;
+    height: 200PX;
+    padding: 20PX 10PX;
+    float: left;
+    margin-right: 23px;
+    margin-top: 30px;
+    
+}
+.reset{
+    margin-right: 0;
+}
+P{
+  padding: 20PX 0;
+}
